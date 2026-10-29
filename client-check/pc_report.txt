@@ -1,0 +1,166 @@
+============================================================
+Диагностика компьютера
+Дата: 29.10.2026 22:09:42,00
+============================================================
+
+--- Операционная система ---
+Название: Windows 10 Pro
+Версия: 10.0.19045
+
+--- Процессор ---
+Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+
+--- Оперативная память ---
+Всего памяти: 15 ГБ
+Свободно памяти: 5 ГБ
+
+--- Диск C ---
+Всего: 124 ГБ
+Свободно: 0 ГБ
+
+--- Установленные программы ---
+7-Zip 24.09 (x64)
+AutoHotkey
+ATTACK SHARK GAMING
+Intel(R) Graphics Software & Drivers
+MSCO Launcher 1.2.5.8
+Meta Horizon Link
+Microsoft OneDrive
+Pantum-M6500W-Series
+PostgreSQL 18 
+PyCharm 2026.2.2
+Riot Vanguard
+Odd Remedy
+Euro Truck Simulator 2
+War Thunder
+Counter-Strike: Source
+SteamVR
+BeamNG.drive
+Gang Beasts
+Squad
+Hearts of Iron IV
+IRON NEST: Heavy Turret Simulator Demo
+Hot Dogs, Horseshoes & Hand Grenades
+My Summer Car
+VTOL VR
+Vulkan Run Time Libraries 1.0.65.1
+WinRAR 7.22 (64-bit)
+WizTree v4.32
+Microsoft .NET Host - 9.0.7 (x64)
+Microsoft .NET Host - 8.0.14 (x64)
+SharpKeys
+Epic Games Launcher
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft .NET Runtime - 9.0.7 (x64)
+Microsoft .NET Host FX Resolver - 9.0.7 (x64)
+Microsoft Update Health Tools
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft Windows Desktop Runtime - 5.0.17 (x64)
+Microsoft .NET Runtime - 6.0.32 (x64)
+Camo Studio
+Intel(R) Computing Improvement Program
+Logitech G HUB
+Microsoft Windows Desktop Runtime - 9.0.7 (x64)
+Cloudflare WARP
+Microsoft .NET Runtime - 5.0.17 (x64)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Microsoft .NET Host FX Resolver - 6.0.32 (x64)
+Microsoft .NET Runtime - 8.0.14 (x64)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247
+Java 8 Update 461 (64-bit)
+Microsoft Windows Desktop Runtime - 6.0.32 (x64)
+Microsoft .NET Host FX Resolver - 5.0.17 (x64)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247
+Documentation Manager
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft .NET Host FX Resolver - 6.0.36 (x64)
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft .NET Host FX Resolver - 8.0.14 (x64)
+NVIDIA Графический драйвер 617.14
+NVIDIA App 11.0.9.565
+NVIDIA MessageBus 3 for NvApp
+NVIDIA Backend
+NVIDIA App driver settings
+NVIDIA Системное программное обеспечение PhysX 9.26.0703
+NVIDIA FrameView SDK 1.9.12728.38614306
+NVIDIA Аудиодрайвер HD 1.4.6.3
+NVIDIA Install Application
+NVIDIA Container
+NVIDIA AIUser Container
+NVIDIA LocalSystem Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA NvDLISR
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA ShadowPlay 11.0.9.0
+NVIDIA Virtual Audio 4.92.0.0
+PS3 Eye Universal Driver
+INCY
+Update for x64-based Windows Systems (KB5001716)
+Paradox Launcher v2
+hidemy.name VPN 3.0
+Microsoft GameInput
+Microsoft .NET Runtime - 6.0.36 (x64)
+Intel® Software Installer
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft .NET Host - 6.0.36 (x64)
+Microsoft .NET Host - 5.0.17 (x64)
+Epic Games Launcher Prerequisites (x64)
+Adobe Creative Cloud
+MSI Afterburner 4.6.5
+CL-Eye Driver
+Escape from Tarkov
+Grand Theft Auto V Enhanced
+Microsoft Edge
+Среда выполнения Microsoft Edge WebView2 Runtime
+MTA:SA v1.6.0
+OpenAL
+Overwolf
+qBittorrent
+Rockstar Games Launcher
+Rockstar Games SDK
+RivaTuner Statistics Server 7.3.7
+Steam
+Windhawk v1.7.3
+Intel(R) Wireless Bluetooth(R)
+Intel® Driver & Support Assistant
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Windows Desktop Runtime - 6.0.32 (x64)
+Microsoft Windows Desktop Runtime - 5.0.17 (x64)
+Microsoft XNA Framework Redistributable 4.0
+Intel Driver && Support Assistant
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Launcher Prerequisites (x64)
+Microsoft .NET Host FX Resolver - 8.0.14 (x86)
+Java Auto Updater
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36247
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36247
+Microsoft Windows Desktop Runtime - 9.0.7 (x64)
+Microsoft .NET Runtime - 8.0.14 (x86)
+Microsoft Visual C++ 2005 Redistributable
+TechPowerUp GPU-Z
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft .NET Runtime - 8.0.14 (x64)
+Battlestate Games Launcher 15.1.0.4635
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft ASP.NET Core 8.0.14 - Shared Framework (x86)
+Microsoft ASP.NET Core 8.0.14 Shared Framework (x86)
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Radmin VPN 2.0.9
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft .NET Host - 8.0.14 (x86)
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Windows Desktop Runtime - 8.0.14 (x86)
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Windows Desktop Runtime - 8.0.14 (x86)
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+
+Отчёт сохранён: C:\Users\serge\OneDrive\Desktop\client-check\pc_report.txt
